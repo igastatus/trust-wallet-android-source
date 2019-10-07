@@ -15,6 +15,8 @@ Website: https://trustwalletapp.com
 
 Download Android version: https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp
 
+Download iOS version: https://apps.apple.com/us/app/trust-crypto-bitcoin-wallet/id1288339409
+
 Blog: https://medium.com/@trustwallet
 
 
